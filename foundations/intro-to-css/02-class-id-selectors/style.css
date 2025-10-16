@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.impar {
+    background-color: rgb(240, 151, 151);
+    font-family: Verdana, DejavuSans, sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+.bold-fontsize24{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#forth{
+    background-color: rgb(153, 238, 153);
+}
